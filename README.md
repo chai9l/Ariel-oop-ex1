@@ -6,7 +6,7 @@
  - weighted_graph - This interface represents an undirectional unweighted graph.
  - weighted_graph_algorithms - This interface represents an Undirected (positive) Weighted Graph Theory    algorithms.
  - node_info - This interface represents the set of operations applicable on a node in a graph.
- - WGraph_DS - Graph_DS implements weughted_graph.
+ - WGraph_DS - Graph_DS implements weighted_graph.
  - WGraph_Algo - Graph_Algo implements graph_algorithms.
 
 ## WGraph_Algo methods
